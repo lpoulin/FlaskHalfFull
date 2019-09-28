@@ -1,8 +1,14 @@
 # FlaskHalfFull
 Experimenting with **flask**!
 
-### to run app:
+##### to install dependencies to virtualenv: 
 
 ```console
-$ python -m flask run
+$ pip install -r requirements.txt
+```
+
+##### to run app:
+
+```console
+$ flask run
 ```
